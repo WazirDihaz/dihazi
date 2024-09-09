@@ -1,0 +1,18 @@
+h1
+{
+    color: rgb(72, 111, 145);
+    MARGIN:3PX 33PX;
+    BORDER:3PX SOLID RED;
+ background-color: rgb(6, 26, 44);
+ font-weight:bold;
+ font-style: italic;
+ text-decoration:underline;
+ text-align:center;
+ text-decoration:overline;n
+ text-transform: lowercase;
+}
+body
+{
+    BACKGROUND-COLOR:hsla(77, 51%, 10%, 0.479);
+    BACKGROUND-COLOR:#f86060;
+}.
