@@ -8,11 +8,11 @@ h1
  font-style: italic;
  text-decoration:underline;
  text-align:center;
- text-decoration:overline;n
+ text-decoration:overline;
  text-transform: lowercase;
 }
 body
 {
     BACKGROUND-COLOR:hsla(77, 51%, 10%, 0.479);
     BACKGROUND-COLOR:#f86060;
-}.
+}
